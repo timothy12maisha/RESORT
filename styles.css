@@ -1,0 +1,47 @@
+.rooms{
+    color: black;
+    font-family: 'Poiret One', cursive;
+
+}
+.activities{
+    color: black;
+    font-family: 'Poiret One', cursive;
+
+}
+.footer{
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    background-color: bisque;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive;
+text-shadow: 1px 2px 3px grey;
+}
+p{
+    color: black;
+    font-family: 'Poiret One', cursive;
+}
+.projectimage{
+    border-radius: 10%;
+    width: 30%;
+    height: 30%;
+    flex: 5px;
+}
+.row {
+    display: flex;
+  }
+  .column {
+    flex: 33%;
+    padding: 5px;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
